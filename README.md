@@ -1,2 +1,2 @@
 # IBM-Machine-Learning
-In fulfillment of IBM Machine Learning certificate program
+In fulfillment of IBM's Machine Learning certificate program
