@@ -2,6 +2,18 @@
 This repository contains codes to the final projects I completed in fulfillment of the individual courses available in the IBM AI Engineering Specialization.
 
 ## Machine-Learning with Python
+In this first course of the IBM AI Engineering Specialization, I was asked to build classical machine learning learning algorithms such as:
+KNearest Neighbor
+Decision Tree
+Support Vector Machines
+Logistic Regression
+
+It was required that each model is evaluated on an test data using different model evaluation techniques such as 
+Accuracy
+Jaccard Index
+
+
+ 
 In fulfillment of IBM's Machine Learning certificate program
 
 ## Introduction to Computer Vision 
