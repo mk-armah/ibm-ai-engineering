@@ -1,20 +1,21 @@
 # IBM AI ENGINEERING SPECIALIZATION
-This repository contains codes to the final projects I completed in fulfillment of the individual courses available in the IBM AI Engineering Specialization.
+This repository contains working codes of the final projects I completed in fulfillment of the individual courses available in the IBM AI Engineering Specialization.
 
 ## Machine-Learning with Python
-In this first course of the IBM AI Engineering Specialization, I was asked to build classical machine learning learning algorithms such as:
-KNearest Neighbor
-Decision Tree
-Support Vector Machines
+In this first course of the IBM AI Engineering Specialization, I was asked to develop classical machine learning learning algorithms which included:
+KNearest Neighbor Classifier
+Decision Tree Classifier
+Support Vector Classifier
 Logistic Regression
 
+Using Sckit-Learn Library, Scipy and Numpy.
+
 It was required that each model is evaluated on an test data using different model evaluation techniques such as 
-Accuracy
-Jaccard Index
+Jaccard
+F1-score and,
+LogLoss
 
-
- 
-In fulfillment of IBM's Machine Learning certificate program
+The purpose of the project was to use data science and machine learning techniques to predict whether a given customer would default on a loan.
 
 ## Introduction to Computer Vision 
 In this lab I was tasked train a state of the art image classifier using CV Studio. I made use of a Convolutional Neural Network as a feature generator.The ConvNet was pretrained on a very large dataset since the data provided was very little and wouldn't yield expected accuracies. Transfer Learning was applied by changing the last few layers of the model to suit the specifications of my desired model.
