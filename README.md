@@ -3,19 +3,19 @@ This repository contains working codes of the final projects I completed in fulf
 
 ## Machine-Learning with Python
 In this first course of the IBM AI Engineering Specialization, I was asked to develop classical machine learning learning algorithms which included:
-KNearest Neighbor Classifier
-Decision Tree Classifier
-Support Vector Classifier
-Logistic Regression
+1. KNearest Neighbor Classifier
+2. Decision Tree Classifier
+3. Support Vector Classifier
+4. Logistic Regression
 
 Using Sckit-Learn Library, Scipy and Numpy.
 
 It was required that each model is evaluated on an test data using different model evaluation techniques such as 
-Jaccard
-F1-score and,
-LogLoss
+1. Jaccard
+2. F1-score and,
+3. LogLoss
 
-The purpose of the project was to use data science and machine learning techniques to predict whether a given customer would default on a loan.
+The purpose of the project was to use Data Science and Machine Learning techniques to predict whether a given customer would default on a loan. As a challenge, the given dataset was highly imbalanced and hence in other to gain the best out of the models without Overfitting too much on the test set, I had to utilize complex techniques to handle the imbalanced data.
 
 ## Introduction to Computer Vision 
 In this lab I was tasked train a state of the art image classifier using CV Studio. I made use of a Convolutional Neural Network as a feature generator.The ConvNet was pretrained on a very large dataset since the data provided was very little and wouldn't yield expected accuracies. Transfer Learning was applied by changing the last few layers of the model to suit the specifications of my desired model.
