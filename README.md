@@ -13,7 +13,7 @@ Using Sckit-Learn Library, Scipy and Numpy.
 It was required that each model is evaluated on an test data using different model evaluation techniques such as 
 1. Jaccard
 2. F1-score and,
-3. LogLoss
+3. LogLoss.
 
 The purpose of the project was to use Data Science and Machine Learning techniques to predict whether a given customer would default on a loan. As a challenge, the given dataset was highly imbalanced and hence in other to gain the best out of the models without Overfitting too much on the test set, I had to utilize complex techniques to handle the imbalanced data.
 
